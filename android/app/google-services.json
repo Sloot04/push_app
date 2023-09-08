@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1049869151410",
+    "project_id": "flutter-projects-35945",
+    "storage_bucket": "flutter-projects-35945.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1049869151410:android:982ae23d097122eb1d6dab",
+        "android_client_info": {
+          "package_name": "com.suyaislootmans.push_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgnzytVMV5-ioaoZC1zE1opwieRsBCIaY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
